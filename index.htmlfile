@@ -1,0 +1,20 @@
+<!DOCTYPE:html>
+<html>
+  <head>
+    <style>
+      body{background-colour: brown}
+      h1{colour:yellow}
+      p{color: red}
+    </style>
+  </head>
+  <body>
+     <h1>This is my page</h1>
+    <img src="https://github.com/ElFe-11E/ElFe-11E.github.io/blob/main/pp,jpegE" alt "profile Picture">
+    <p>This is a paragraph</p>
+    <ul>
+      <li>Iteam 1</li>
+      <li>Iteam 2</li>
+      <li>Iteams 3</li>  
+    </ul>
+    </body>
+  </html>
